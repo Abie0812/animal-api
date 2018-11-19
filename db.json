@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {"id":1,"name":"Sheep, stone","category":"Yellow"},
+    {"id":2,"name":"Raven, white-necked","category":"Blue"},
+    {"id":3,"name":"Red-billed hornbill","category":"Orange"},
+    {"id":4,"name":"Asian openbill","category":"Teal"},
+    {"id":5,"name":"Green-winged macaw","category":"Mauv"},
+    {"id":6,"name":"Skink, blue-tongued","category":"Khaki"},
+    {"id":7,"name":"Killer whale","category":"Purple"},
+    {"id":8,"name":"Hawk-eagle, crowned","category":"Orange"},
+    {"id":9,"name":"Ringtail cat","category":"Teal"},
+    {"id":10,"name":"Native cat","category":"Purple"},
+    {"id":11,"name":"Spectacled caiman","category":"Orange"},
+    {"id":12,"name":"Goose, snow","category":"Fuscia"},
+    {"id":13,"name":"Dog, raccoon","category":"Khaki"},
+    {"id":14,"name":"Spotted-tailed quoll","category":"Goldenrod"},
+    {"id":15,"name":"Reedbuck, bohor","category":"Mauv"},
+    {"id":16,"name":"Stork, white","category":"Yellow"},
+    {"id":17,"name":"Barking gecko","category":"Teal"},
+    {"id":18,"name":"Colobus, black and white","category":"Fuscia"},
+    {"id":19,"name":"Butterfly (unidentified)","category":"Khaki"},
+    {"id":20,"name":"Javan gold-spotted mongoose","category":"Maroon"}
+  ]
+}
